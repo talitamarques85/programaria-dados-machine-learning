@@ -90,4 +90,4 @@ Conforme demonstrado no gráfico de coeficientes da Regressão Linear padronizad
 ## Autora
 
 Talita Marques Rodrigues  
-[LinkedIn](www.linkedin.com/in/talitamarquesbragaN) | [GitHub](github.com/talitamarques85)
+[LinkedIn](www.linkedin.com/in/talitamarquesbraga) 
