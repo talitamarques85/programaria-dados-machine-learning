@@ -36,13 +36,13 @@ Uma cópia estática do relatório também está disponível no repositório em:
 ### Prévia do Painel
 
 #### Visão Geral e Distribuição Geográfica
-![Visão Geral](img/overview.png)
+![Visão Geral](img/Overview.jpg)
 
 #### Análise Detalhada por Gênero
-![Análise de Gênero](img/genero.png)
+![Análise de Gênero](img/genero.jpg)
 
 #### Análise Detalhada por Etnia
-![Análise de Etnia](img/etnia.png)
+![Análise de Etnia](img/etnia.jpg)
 
 ---
 
