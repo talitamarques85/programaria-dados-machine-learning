@@ -1,4 +1,10 @@
 # programaria-dados-machine-learning
+
+## About the Project (English Summary)
+This project presents an end-to-end data analysis (SQL, Python, Scikit-Learn, and Looker Studio) evaluating socioeconomic and demographic patterns within the tech/data market in Brazil. 
+The main documentation below is written in Portuguese, but the repository contains full technical workflows, SQL scripts, predictive modeling, and interactive dashboards.
+
+
 # Projeto Integrado de Análise de Dados e Modelagem Preditiva - PrograMaria
 
 ## Visão Geral do Projeto
